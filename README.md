@@ -8,7 +8,9 @@ Spec:
 1. ASUS H110M-E/M.2 (but I don't use any of the M.2 slots)
 1. 16GB DDR4 RAM
 1. Samsung EVO 850 SATA SSD (120GB)
-1. GTX1660 Super (just to drive the display, see next point)
-1. iGPU: HD Graphics 630 (HW accel still not working, and still cannot display directly from motherboard port. Cannot get boot with dGPU removed either)
+1. GTX1660 Super (not being used for mac. But can stay plugged in to motherboard)
+1. iGPU: HD Graphics 630
 
 **SMBIOS serial, etc are removed from this repo. Generate one for yourself**
+
+Enable **Multi Monitor** on BIOS and set the **primary GPU** to **CPU Graphic**. Plug HDMI directly to port on motherboard.
