@@ -1,7 +1,7 @@
 # OpenCore-7600K-H110-1660S
  
 Spec:
-1. OpenCore 0.9.8
+1. OpenCore 1.0.5
 1. MacOS Ventura
 1. SMBIOS: iMac18,1
 1. KabyLake i5 7600K
